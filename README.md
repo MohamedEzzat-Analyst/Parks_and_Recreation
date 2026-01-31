@@ -1,4 +1,10 @@
 # Parks_and_Recreation
+## Project Overview
+
+**Project Title**: Parks_and_Recreation 
+**Level**: Begginner  
+**Database**: `Parks_and_Recreation`
+
 DROP DATABASE IF EXISTS `Parks_and_Recreation`;
 CREATE DATABASE `Parks_and_Recreation`;
 USE `Parks_and_Recreation`;
